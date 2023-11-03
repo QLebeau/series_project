@@ -1,7 +1,9 @@
 header {
+  img {
+    height: 70px;
+  }
 
   nav {
-
     ul {
       display: flex;
       gap: 1rem;
@@ -10,12 +12,9 @@ header {
 
       li {
         a {
-          color: black;
           text-decoration: none;
-
         }
       }
     }
-
   }
 }
